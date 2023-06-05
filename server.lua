@@ -1,0 +1,1 @@
+-- do your magic to add money if you want to use this script
